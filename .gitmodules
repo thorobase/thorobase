@@ -1,0 +1,3 @@
+[submodule "thoroMotion"]
+	path = thoroMotion
+	url = git://github.com/robinhowlett/thoroMotion.git
