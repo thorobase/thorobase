@@ -1,3 +1,6 @@
 [submodule "thoroMotion"]
 	path = thoroMotion
 	url = git://github.com/robinhowlett/thoroMotion.git
+[submodule "thoroData"]
+	path = thoroData
+	url = git://github.com/robinhowlett/thoroData.git
