@@ -1,0 +1,9 @@
+The thorobase API
+
+===============
+Submodules
+===============
+
+* thoroData: represents the Model and provider interface for data parsing
+
+* thoroMotion: visualizations of racing chart data
